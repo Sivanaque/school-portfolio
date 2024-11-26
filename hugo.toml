@@ -1,4 +1,4 @@
-baseURL = "https://www.adrianmoreno.info"
+baseURL = "https://www.antoinespiteri.net"
 languageCode = "en-us"
 theme = "adritian-free-hugo-theme"
 
@@ -41,7 +41,7 @@ theme = "adritian-free-hugo-theme"
 #  weight = 4
 
   [[menu.header]]
-  name = "Blog"
+  name = "Veille technologiques"
   URL = "/blog"
   weight = 5
 
@@ -88,7 +88,7 @@ theme = "adritian-free-hugo-theme"
     text2 = "SPITERI"
 
   [params.footer]
-      copyright = "© Adritian. Free Hugo theme by Adrián Moreno Peña."
+      copyright = "© Antoine SPITERI. Hugo theme by Adrián Moreno Peña."
       [params.footer.radity_logo]
         x = "img/general/design-and-code-radity.png"
         _2x = "img/general/design-and-code-radity@2x.png"

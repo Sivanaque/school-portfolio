@@ -18,7 +18,7 @@ showcase:
   button:
     icon: "icon-mail-fill"
     btnText: "Contact"
-    URL: "https://www.adrianmoreno.info/"
+    URL: "#contact"
 
   socialLinks:
     - icon: "linkedin"
@@ -26,30 +26,6 @@ showcase:
 
     - icon: "github"
       URL: "https://github.com/zetxek"
-
-    - icon: "twitter"
-      URL: "https://twitter.com/zetxek"
-
-    - icon: "dribbble"
-      URL: "#"
-
-    - icon: "behance"
-      URL: "#"
-
-    - icon: "youtube"
-      URL: "#"
-
-    - icon: "instagram"
-      URL: "https://www.instagram.com/zetxek/"
-
-    - icon: "facebook"
-      URL: "https://www.facebook.com/zetxek/"
-
-    - icon: "codepen"
-      URL: "#"
-
-    - icon: "yelp"
-      URL: "https://www.yelp.com/"
 
 # about
 about:
@@ -87,7 +63,7 @@ education:
 # experience
 experience:
   enable: true
-  title: "Experience"
+  title: "Mes expériences"
   description: >
     Vous trouverez toutes mes précédentes expériecnes dans le monde de l'informatique sur votre droite ! Mais aussi :
   button:
@@ -137,29 +113,26 @@ testimonial:
 # contact
 contact:
   enable: true
-  title: "Contact"
+  title: "On reste en contact ?"
   form:
     action: "#"
-    full_name: "Full Name"
-    email: "Email Address"
-    message: "Type Your Message Here"
-  phone:
-    title: "Phone Number"
-    number: "+555 (11) 123 44 55"
-  email:
-    title: "Email"
-    email: '<a href="mailto:mail@example.com">mail@example.com</a>'
-  address:
-    title: "Address"
-    address: "Exact street/neighborhood (you can omit this)<br />Postcode, City"
+    full_name: "Nom de famille"
+    email: "Adresse Email"
+    message: "Exprimez-vous !"
+ # email:
+  #  title: "Email"
+   # email: '<a href="mailto:mail@example.com">contact@antoinespiteri.net</a>'
+  #address:
+   # title: "Address"
+    #address: "Exact street/neighborhood (you can omit this)<br />Postcode, City"
   button:
     icon: "icon-mail-fill"
-    btnText: "Send Message"
+    btnText: "Envoyer"
 
 # newsletter
 newsletter:
   enable: false
-  title: "Newsletter subscription"
+  title: "On reste"
   success_message: "Successfully subscribed"
   error_message: "Error while subscribing."
   note: "We'll never share your email with anyone else."
