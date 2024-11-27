@@ -35,10 +35,10 @@ theme = "adritian-free-hugo-theme"
   URL = "#portfolio"
   weight = 3
 
-#  [[menu.header]]
-#  name = "Experience"
-#  URL = "#experience"
-#  weight = 4
+  [[menu.header]]
+  name = "Experience"
+  URL = "#experience"
+  weight = 4
 
   [[menu.header]]
   name = "Veille technologiques"
