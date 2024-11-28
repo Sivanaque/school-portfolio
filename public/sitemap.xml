@@ -3,13 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-11-27T00:00:00+01:00</lastmod>
+    <lastmod>2024-11-28T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2024-11-27T00:00:00+01:00</lastmod>
+    <lastmod>2024-11-28T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/ia-art/</loc>
-    <lastmod>2024-11-27T00:00:00+01:00</lastmod>
+    <lastmod>2024-11-28T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/vr-evolution/</loc>
     <lastmod>2024-11-27T00:00:00+01:00</lastmod>
@@ -22,8 +22,6 @@
   </url><url>
     <loc>http://localhost:1313/experience/parthenos/</loc>
     <lastmod>2024-05-05T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/coucou/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
