@@ -6,13 +6,20 @@
     <description>Recent content in Blogs on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 00:00:00 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Les artistes et l&#39;IA, une relation pernicieuse ?</title>
+      <link>http://localhost:1313/blog/ia-art/</link>
+      <pubDate>Thu, 28 Nov 2024 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/blog/ia-art/</guid>
+      <description>&lt;p&gt;A travers les nappes sonores que nous offres les musiciens, les coups de crayons et de pinceaux donnés par les peintres, et les messages percutants que nous communiquent les réalisateurs, ils répresent toutes et tous l&amp;rsquo;art comme nous le connaissons, une réél manière d&amp;rsquo;exprimer ce qui nous est de valeure forte.&lt;/p&gt;&#xA;&lt;p&gt;Mais alors un beau jour, ChatGPT fait surface sur la toile, tout le monde en entend parler et tout le monde l&amp;rsquo;utilise. Rédiger un contre-rendu qui prendrai plusieurs heures habituellement se génére comme par magie en 1 minute chrono. Mais la génération de texte n&amp;rsquo;est pas la seule menace vu par nos amis artistes. La sensation planante d&amp;rsquo;une piste de synthé éléctro carassant tendrement nos tympans, généré par un robot démuni de sentiments et de sens. Une peinture relevant de l&amp;rsquo;ultra-réalisme basé sur des milliers d&amp;rsquo;oeuvres réalisés par d&amp;rsquo;innombrables talentueux et talentueuses aritstes, repris par une machine pour assembler un morceau d&amp;rsquo;art.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Comment la réalité virtuelle a transformé notre interaction dans un environnement régit par le numérique ?</title>
-      <link>http://localhost:1313/blog/salut/</link>
+      <link>http://localhost:1313/blog/vr-evolution/</link>
       <pubDate>Wed, 27 Nov 2024 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/blog/salut/</guid>
+      <guid>http://localhost:1313/blog/vr-evolution/</guid>
       <description>&lt;p&gt;Difficile de se passer de ce terme aujourd&amp;rsquo;hui. La réalité virtuelle, une branche en expension continue, des possibilités de créations gargantuesques, et une vision bien plus large des capacités de l&amp;rsquo;informatique.&lt;/p&gt;&#xA;&lt;p&gt;Pourtant, cette technologie ne date pas d&amp;rsquo;hier. D&amp;rsquo;un grand casque étrange et très lourd n&amp;rsquo;affichant que des formes simples dans les années 60, aux casques Oculus Rift pessant quelques centaines de grammes pouvant générer des mondes réalistes tout en ayant la possibilité d&amp;rsquo;utiliser nos mains pour communiquer avec ce monde fictif, il c&amp;rsquo;est fait inévatiblement une grande place dans le marché du jeux-vidéo.&lt;/p&gt;</description>
     </item>
   </channel>

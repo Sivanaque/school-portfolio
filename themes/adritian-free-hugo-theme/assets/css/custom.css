@@ -2,11 +2,14 @@
 .header .navbar-brand span:first-child{
     color: #742F97;
 }
+
 .header .container{
     padding-left: 10px;
 }
 
 html body ::selection{
-    background-color:#488079;color:#fff
+    background-color:#742F97;color:#fff
 }
+
+
 
