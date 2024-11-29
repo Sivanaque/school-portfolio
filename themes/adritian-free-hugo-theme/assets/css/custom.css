@@ -11,5 +11,7 @@ html body ::selection{
     background-color:#742F97;color:#fff
 }
 
-
+.header .navbar .nav-item .nav-link::after {
+    background-color: #742F97
+}
 

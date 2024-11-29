@@ -73,7 +73,7 @@ experience:
   button2:
     icon: "icon-profile-fill"
     btnText: "Voir mon CV"
-    URL: "#"
+    URL: "https://bts.antoinespiteri.net/assets/CV.pdf"
   button3:
     icon: "icon-arrow-right"
     btnText: "Toutes mes expériences"

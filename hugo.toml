@@ -26,29 +26,35 @@ theme = "adritian-free-hugo-theme"
 [menu]
 
   [[menu.header]]
-  name = "About"
+  name = "À propos"
   URL = "#about"
   weight = 2
 
-  [[menu.header]]
-  name = "Portfolio"
-  URL = "#portfolio"
-  weight = 3
+  # [[menu.header]]
+  # name = "Portfolio"
+  # URL = "#portfolio"
+  # weight = 3
 
   [[menu.header]]
-  name = "Experience"
-  URL = "#experience"
+  name = "Experiences"
+  URL = "/experience"
   weight = 4
+
+  [[menu.header]]
+  identifier = "epreuves"
+  name = "Epreuves"
+  URL = "/epreuves"
+  weight = 5
 
   [[menu.header]]
   name = "Veille technologiques"
   URL = "/blog"
-  weight = 5
+  weight = 6
 
   [[menu.header]]
   name = "Contact"
   URL = "#contact"
-  weight = 6
+  weight = 7
 
   [[menu.footer]]
   name = "About"
@@ -88,7 +94,7 @@ theme = "adritian-free-hugo-theme"
     text2 = "SPITERI"
 
   [params.footer]
-      copyright = "© Antoine SPITERI. Hugo theme by Adrián Moreno Peña."
+      copyright = "© Antoine SPITERI. theme Hugo par Adrián Moreno Peña."
       [params.footer.radity_logo]
         x = "img/general/design-and-code-radity.png"
         _2x = "img/general/design-and-code-radity@2x.png"
