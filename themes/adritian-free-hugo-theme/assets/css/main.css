@@ -402,6 +402,7 @@ p,
 pre,
 ul {
     margin-top: 0;
+    color: white;
 }
 dd,
 label,
@@ -482,8 +483,12 @@ dl,
 ol,
 ul {
     margin-bottom: 1rem;
+}
+
+li:before {
     color: white;
 }
+
 ol ol,
 ol ul,
 ul ol,
@@ -10018,7 +10023,6 @@ textarea:focus {
     padding-left: 15px;
     font-size: 16px;
     font-weight: 300;
-    color: white;
     line-height: 1.24;
     margin-bottom: 12px;
     text-align: left;
@@ -10808,7 +10812,7 @@ aside.content-browser{
 }
 @media only screen and (min-width: 992px) and (max-width: 1280px){
     .header{ 
-        padding-top: ;
+        padding-top: 0;
     }
 }
 
