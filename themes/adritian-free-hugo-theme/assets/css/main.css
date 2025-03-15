@@ -482,6 +482,7 @@ dl,
 ol,
 ul {
     margin-bottom: 1rem;
+    color: white;
 }
 ol ol,
 ol ul,
@@ -10017,7 +10018,7 @@ textarea:focus {
     padding-left: 15px;
     font-size: 16px;
     font-weight: 300;
-    color: rgba(0, 0, 0, 0.6);
+    color: white;
     line-height: 1.24;
     margin-bottom: 12px;
     text-align: left;
