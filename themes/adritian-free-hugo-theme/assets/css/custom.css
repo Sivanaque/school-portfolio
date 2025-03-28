@@ -15,8 +15,10 @@ html body ::selection{
     background-color: #742F97
 }
 
-li:before {
-    color: white;
+b, strong {
+    font-weight: 700;
 }
 
-
+a {
+    color: red;
+}

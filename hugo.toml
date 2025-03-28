@@ -1,4 +1,4 @@
-baseURL = "https://hugo.antoinespiteri.net"
+baseURL = "https://bts.antoinespiteri.net"
 languageCode = "en-us"
 theme = "adritian-free-hugo-theme"
 
@@ -57,19 +57,30 @@ theme = "adritian-free-hugo-theme"
   weight = 7
 
   [[menu.footer]]
-  name = "About"
+  name = "À propos"
   URL = "#about"
   weight = 2
 
   [[menu.footer]]
-  name = "Portfolio"
-  URL = "#portfolio"
+  name = "Experiences"
+  URL = "/experience"
   weight = 3
+
+  [[menu.footer]]
+  identifier = "epreuves"
+  name = "E5/E6"
+  URL = "/epreuves"
+  weight = 4
+
+  [[menu.footer]]
+  name = "Veille technologiques"
+  URL = "/blog"
+  weight = 5
 
   [[menu.footer]]
   name = "Contact"
   URL = "#contact"
-  weight = 4
+  weight = 6
 
 
 [params]
@@ -91,10 +102,10 @@ theme = "adritian-free-hugo-theme"
   
   [params.logo]
     text1 = "Antoine"
-    text2 = "SPITERI"
+    text2 = " SPITERI"
 
   [params.footer]
-      copyright = "© Antoine SPITERI. theme Hugo par Adrián Moreno Peña."
+      copyright = "© Antoine SPITERI. Thème par Adrián Moreno Peña."
       [params.footer.radity_logo]
         x = "img/general/design-and-code-radity.png"
         _2x = "img/general/design-and-code-radity@2x.png"
