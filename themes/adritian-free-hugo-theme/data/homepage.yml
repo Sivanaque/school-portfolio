@@ -6,7 +6,7 @@ head:
 showcase:
   enable: true
   title: "Allô ? Ici Antoine SPITERI"
-  subtitle: "DevOPS & Développeur"
+  subtitle: "Apprenti informaticien en BTS SIO"
   description: >
      Il fut un temps où je découvris le développement Web, ce moment où je pouvais donner un vrai coup de pinceau à mes idées vagabondantes et à créer le mécanique pour leurs données vies.<br> Mes projets sont disponibles librement sur <a target='_blank' href='https://github.com/Sivanaque'>GitHub</a>.<br> Les yeux détachés de l'écran, je saisi très souvent ma guitare pour jouer quelques riffs et partager un moment d'apaissement. Il en faut un peu dans ce monde.
   image:
@@ -33,7 +33,7 @@ about:
   title: "Qui est cet humain ?"
   content: >
     <p class="lead">
-      À la vieille de mes 14 ans, ma curiosité m'a enfin convaincu à comprendre comment ses milliers de sites présents sur ce gigantesque monde étaient créé.  
+      À la vieille de mes 14 ans, ma curiosité m'a enfin convaincu à comprendre comment ses milliers de sites présents sur ce gigantesque monde étaient créé, mais aussi comment ils étaient configurés .  
       </p>
       <p class="lead">
       Après le collège, je voulais marquer le coup avec l'informatique. En 2020, l'envie de comprendre les mécaniques du numérique (mais surtout de la programmation) m'a fait rejoindre l'école IRIS pour effectuer mon Bac Pro S.N (Obtenu mention bien 😀).<br>Toujours dans le même établissement, je continue d'approfondir mes interrogations en passant mon BTS SIO et en me basant sur d'autres ressources externes.<br>Passioné et emerveillé depuis toujours par la musique, je cherche continuellement à savoir comment le son et la musique (DSP) peut s'allier avec une machine ne répondant que par des 0 et des 1, et visiblement, il y en a beaucoup à décorticer. 🎶

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Epreuves on </title>
-    <link>https://bts.antoinespiteri.net/epreuves/</link>
+    <link>http://localhost:1313/epreuves/</link>
     <description>Recent content in Epreuves on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0100</lastBuildDate>
-    <atom:link href="https://bts.antoinespiteri.net/epreuves/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/epreuves/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>E5</title>
-      <link>https://bts.antoinespiteri.net/epreuves/e5/</link>
+      <link>http://localhost:1313/epreuves/e5/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0100</pubDate>
-      <guid>https://bts.antoinespiteri.net/epreuves/e5/</guid>
+      <guid>http://localhost:1313/epreuves/e5/</guid>
       <description>&lt;h3 id=&#34;e5-support-et-mise-à-disposition-de-services-informatiques&#34;&gt;E5: SUPPORT ET MISE À DISPOSITION DE SERVICES INFORMATIQUES&lt;/h3&gt;&#xA;&lt;h5 id=&#34;heading&#34;&gt;‎&lt;/h5&gt;&#xA;&lt;h5 id=&#34;1---objectif&#34;&gt;1 - OBJECTIF&lt;/h5&gt;&#xA;&lt;h6 id=&#34;cette-épreuve-vise-à-évaluer-chez-la-personne-candidate-lacquisition-des-compétences-décrites-dans-le-bloc-de-compétences--support-et-mise-à-disposition-de-services-informatiques--à-savoir-&#34;&gt;Cette épreuve vise à évaluer chez la personne candidate l’acquisition des compétences décrites dans le bloc de compétences « Support et mise à disposition de services informatiques », à savoir :&lt;/h6&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Gérer le patrimoine informatique&lt;/li&gt;&#xA;&lt;li&gt;Répondre aux incidents et demandes d’assistance et d’évolution&lt;/li&gt;&#xA;&lt;li&gt;Développer la présence en ligne de l’organisation&lt;/li&gt;&#xA;&lt;li&gt;Travailler en mode projet&lt;/li&gt;&#xA;&lt;li&gt;Mettre à disposition des utilisateurs un service informatique&lt;/li&gt;&#xA;&lt;li&gt;Organiser son développement professionnel&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h6 id=&#34;cette-épreuve-vise-à-évaluer-chez-la-personne-candidate-lacquisition-des-compétences-décrites-dans-le-bloc-de-compétences--support-et-mise-à-disposition-de-services-informatiques--à-savoir--1&#34;&gt;Cette épreuve vise à évaluer chez la personne candidate l’acquisition des compétences décrites dans le bloc de compétences « Support et mise à disposition de services informatiques », à savoir :&lt;/h6&gt;&#xA;&lt;h5 id=&#34;heading-1&#34;&gt;‎&lt;/h5&gt;&#xA;&lt;h5 id=&#34;2---modalités-dévaluation&#34;&gt;2 - MODALITÉS D’ÉVALUATION&lt;/h5&gt;&#xA;&lt;h6 id=&#34;forme-ponctuelle-orale-durée-40-minutes-&#34;&gt;Forme ponctuelle orale (durée 40 minutes) :&lt;/h6&gt;&#xA;&lt;p&gt;L’épreuve se décompose en deux phases consécutives. Pendant 10 minutes au maximum, la personne candidate présente son parcours de professionnalisation et justifie les modalités d’acquisition des compétences du bloc « Support et mise à disposition de services informatiques ». Ensuite, un échange de 30 minutes avec le jury permet, d’une part, d’expliciter et d’apprécier le parcours de professionnalisation et, d’autre part, d’approfondir une ou plusieurs réalisations décrites dans le dossier numérique. L’entretien permet d’évaluer la capacité de la personne candidate à mobiliser les compétences visées et à rendre compte d’un travail réalisé au sein d’une équipe projet, en mettant clairement en évidence sa contribution personnelle.&lt;/p&gt;</description>
     </item>
     <item>
       <title>E6</title>
-      <link>https://bts.antoinespiteri.net/epreuves/e6/</link>
+      <link>http://localhost:1313/epreuves/e6/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0100</pubDate>
-      <guid>https://bts.antoinespiteri.net/epreuves/e6/</guid>
+      <guid>http://localhost:1313/epreuves/e6/</guid>
       <description>&lt;h3 id=&#34;e6-administration-des-systèmes-et-des-réseaux&#34;&gt;E6: ADMINISTRATION DES SYSTÈMES ET DES RÉSEAUX&lt;/h3&gt;&#xA;&lt;h5 id=&#34;heading&#34;&gt;‎&lt;/h5&gt;&#xA;&lt;h5 id=&#34;1---objectif&#34;&gt;1 - OBJECTIF&lt;/h5&gt;&#xA;&lt;h6 id=&#34;cette-épreuve-vise-à-évaluer-chez-la-personne-candidate-lacquisition-des-compétences-décrites-dans-le-bloc-de-compétences--administration-des-systèmes-et-des-réseaux--propre-à-loption--solutions-dinfrastructure-systèmes-et-réseaux--à-savoir-&#34;&gt;Cette épreuve vise à évaluer chez la personne candidate l’acquisition des compétences décrites dans le bloc de compétences « Administration des systèmes et des réseaux » propre à l’option « Solutions d’infrastructure, systèmes et réseaux », à savoir :&lt;/h6&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Concevoir une solution d&amp;rsquo;infrastructure réseau&lt;/li&gt;&#xA;&lt;li&gt;Installer, tester et déployer une solution d&amp;rsquo;infrastructure réseau&lt;/li&gt;&#xA;&lt;li&gt;Exploiter, dépanner et superviser une infrastructure réseau&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h5 id=&#34;heading-1&#34;&gt;‎&lt;/h5&gt;&#xA;&lt;h5 id=&#34;2--critères-dévaluation-&#34;&gt;2 – CRITÈRES D’ÉVALUATION :&lt;/h5&gt;&#xA;&lt;p&gt;L’épreuve prend appui sur deux réalisations professionnelles composant le dossier remis par la personne candidate. Ces réalisations professionnelles mobilisent les ressources décrites dans le référentiel de certification pour le bloc « Administration des systèmes et des réseaux »&lt;/p&gt;</description>
     </item>
   </channel>

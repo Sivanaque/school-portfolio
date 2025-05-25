@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on </title>
-    <link>https://bts.antoinespiteri.net/blog/</link>
+    <link>http://localhost:34681/blog/</link>
     <description>Recent content in Blogs on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 28 Nov 2024 00:00:00 +0100</lastBuildDate>
-    <atom:link href="https://bts.antoinespiteri.net/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:34681/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Les artistes et l&#39;IA, une relation pernicieuse ?</title>
-      <link>https://bts.antoinespiteri.net/blog/ia-art/</link>
+      <link>http://localhost:34681/blog/ia-art/</link>
       <pubDate>Thu, 28 Nov 2024 00:00:00 +0100</pubDate>
-      <guid>https://bts.antoinespiteri.net/blog/ia-art/</guid>
+      <guid>http://localhost:34681/blog/ia-art/</guid>
       <description>&lt;h5 id=&#34;a-travers-les-nappes-sonores-que-nous-offrent-les-musiciens-les-coups-de-crayon-et-de-pinceaux-des-peintres-les-messages-percutants-des-réalisateurs-ils-représentent-toutes-et-tous-lart-comme-nous-le-connaissons-une-réel-manière-dexprimer-ce-qui-nous-est-de-valeur-forte&#34;&gt;A travers les nappes sonores que nous offrent les musiciens, les coups de crayon et de pinceaux des peintres, les messages percutants des réalisateurs, ils représentent toutes et tous l&amp;rsquo;art comme nous le connaissons, une réel manière d&amp;rsquo;exprimer ce qui nous est de valeur forte.&lt;/h5&gt;&#xA;&lt;p&gt;Mais alors un beau jour, ChatGPT fait surface sur la toile, tout le monde en entend parler et tout le monde l&amp;rsquo;utilise. Rédiger un contre-rendu qui prendrait habituellement plusieurs heures, se génère comme par magie en 1 minute chrono. La peur commence, et puis on en découvre plus chez l&amp;rsquo;IA. Des pistes audio générés par des robots démunis de sentiments et de sens. Une peinture créée par un système reprenant des milliers de créations authentiques. Le grand potentiel des machines se révèle auprès des artistes. Pourtant, cela représente-t-il un réel danger pour eux ?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Comment la réalité virtuelle a transformé notre interaction dans un environnement régit par le numérique ?</title>
-      <link>https://bts.antoinespiteri.net/blog/vr-evolution/</link>
+      <link>http://localhost:34681/blog/vr-evolution/</link>
       <pubDate>Wed, 27 Nov 2024 00:00:00 +0100</pubDate>
-      <guid>https://bts.antoinespiteri.net/blog/vr-evolution/</guid>
+      <guid>http://localhost:34681/blog/vr-evolution/</guid>
       <description>&lt;h5 id=&#34;difficile-de-se-passer-de-ce-terme-aujourdhui-la-réalité-virtuelle-une-branche-en-expension-continue-des-possibilités-de-créations-gargantuesques-et-une-vision-bien-plus-large-des-capacités-de-linformatique&#34;&gt;Difficile de se passer de ce terme aujourd&amp;rsquo;hui. La réalité virtuelle, une branche en expension continue, des possibilités de créations gargantuesques, et une vision bien plus large des capacités de l&amp;rsquo;informatique.&lt;/h5&gt;&#xA;&lt;p&gt;Pourtant, cette technologie ne date pas d&amp;rsquo;hier. D&amp;rsquo;un grand casque étrange et lourd n&amp;rsquo;affichant que des formes simples dans les années 60, aux casques pouvant générer des mondes avec une intéraction très large, il c&amp;rsquo;est fait inévatiblement une grande place dans le marché du jeux-vidéo.&lt;/p&gt;</description>
     </item>
   </channel>
