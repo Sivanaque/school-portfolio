@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Experiences on </title>
-    <link>http://localhost:1313/experience/</link>
+    <link>https://bts.antoinespiteri.net/experience/</link>
     <description>Recent content in Experiences on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/experience/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bts.antoinespiteri.net/experience/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Alternant - Support IT &amp; Développeur Junior</title>
-      <link>http://localhost:1313/experience/ngine/</link>
+      <link>https://bts.antoinespiteri.net/experience/ngine/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/experience/ngine/</guid>
+      <guid>https://bts.antoinespiteri.net/experience/ngine/</guid>
       <description>&lt;h3 id=&#34;une-première-alternance-une-nouvelle-découverte&#34;&gt;Une première alternance, une nouvelle découverte&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://bts.antoinespiteri.net/assets/ngine.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Ngine Networks est une société de conception et de création d’applications innovantes destinées aux (grand) écrans multimédia d’entreprises (B2B). Elle opère dans le développement de service SVOD (Subscription Video On Demand) avec des contenus divers et variés, l’affichage dynamique pour diffuser ses biens immobiliers, des informations (météo, horoscope) ou même réseaux sociaux, et enfin, les kiosques d’information (les grandes tablettes qui vous sauvent quand vous êtes perdus dans un centre commercial 😉)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Stage - Parthenos</title>
-      <link>http://localhost:1313/experience/parthenos/</link>
+      <link>https://bts.antoinespiteri.net/experience/parthenos/</link>
       <pubDate>Sun, 05 May 2024 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/experience/parthenos/</guid>
+      <guid>https://bts.antoinespiteri.net/experience/parthenos/</guid>
       <description>&lt;h3 id=&#34;en-avant-la-cybersécurité-&#34;&gt;En avant la CyberSécurité !&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://bts.antoinespiteri.net/assets/parthenos.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Parthenos est une entreprise de prestation de services informatique ayant pour coeur, la protection des données et la mise en place de solutions Cloud pour les PME afin de les protéger contre les dangereuses menaces des cybercriminels.&lt;/p&gt;&#xA;&lt;p&gt;Créer par deux consultants d&amp;rsquo;expériences se souciant de mettre en sécurité les nombreuses informations qui nous appartiennent, ces derniers proposent d&amp;rsquo;hébérger les données de leurs clients (principalement déstiné envers les avocats) sur un Cloud sécurisé, chiffré et sauvegardé réguilerement.&lt;/p&gt;</description>
     </item>
   </channel>
